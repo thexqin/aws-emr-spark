@@ -23,7 +23,7 @@ The notebook walks through the following key steps:
 
 ## Sample Analysis & Capabilities
 
-The provided sample files highlight the analytical capabilities demonstrated in this repository. Here are some key outputs and insights:
+Here are some key outputs and insights:
 
 ### Data Loading and Initial Inspection
 
